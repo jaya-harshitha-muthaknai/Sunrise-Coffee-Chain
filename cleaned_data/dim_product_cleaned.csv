@@ -1,0 +1,41 @@
+product_id,product_name,product_category,unit_price_gbp,unit_cost_gbp,gross_margin_pct,is_loyalty_eligible,product_status,launch_date,calculated_margin
+1,Flat White,Espresso-Drinks,3.8,0.55,0.855,True,Active,,0.8552631578947368
+2,Cappuccino,Espresso-Drinks,3.6,0.55,0.847,True,Active,,0.8472222222222221
+3,Latte,Espresso-Drinks,3.9,0.58,0.851,True,Active,,0.8512820512820513
+4,Americano,Espresso-Drinks,3.2,0.4,0.875,True,Active,,0.875
+5,Espresso,Espresso-Drinks,2.5,0.38,0.848,True,Active,,0.8480000000000001
+6,Macchiato,Espresso-Drinks,3.4,0.5,0.853,True,Active,,0.8529411764705882
+7,Oat Latte,Espresso-Drinks,4.4,0.85,0.807,True,Active,,0.8068181818181818
+8,Mocha,Espresso-Drinks,4.1,0.7,0.829,True,Active,,0.8292682926829268
+9,Iced Latte,Espresso-Drinks,4.2,0.75,0.821,True,Active,,0.8214285714285714
+10,Cortado,Espresso-Drinks,3.5,0.52,0.851,True,Active,,0.8514285714285714
+11,Pumpkin Spice Latte,Espresso-Drinks,4.8,0.9,0.812,True,Seasonal,2023-09-01,0.8125
+12,Festive Latte,Espresso-Drinks,4.8,0.88,0.817,True,Seasonal,2023-01-01,0.8166666666666667
+13,Filter Black,Filter-Coffee,2.8,0.28,0.9,True,Active,,0.8999999999999999
+14,Batch Brew,Filter-Coffee,2.6,0.25,0.904,True,Active,,0.9038461538461539
+15,Cold Brew,Filter-Coffee,3.5,0.45,0.871,True,Active,,0.8714285714285713
+16,Pour-Over,Filter-Coffee,4.2,0.6,0.857,True,Active,,0.8571428571428571
+17,Croissant,Food,2.8,0.7,0.75,True,Active,,0.7499999999999999
+18,Pain au Chocolat,Food,2.9,0.72,0.752,True,Active,,0.7517241379310344
+19,Banana Bread,Food,3.2,0.8,0.75,True,Active,,0.7500000000000001
+20,Blueberry Muffin,Food,2.9,0.75,0.741,True,Active,,0.7413793103448276
+21,Toasted Sandwich,Food,4.8,1.4,0.708,True,Active,,0.7083333333333334
+22,Granola Pot,Food,3.5,0.9,0.743,True,Active,,0.7428571428571429
+23,Egg & Cress Sandwich,Food,4.2,1.2,0.714,True,Active,,0.7142857142857143
+24,Chocolate Brownie,Food,2.5,0.65,0.74,True,Active,,0.74
+25,Flapjack,Food,2.2,0.55,0.75,True,Active,,0.75
+26,Christmas Mince Pie,Food,1.8,0.45,0.75,True,Seasonal,2023-09-01,0.75
+27,Single Origin Ethiopia 250g,Retail-Beans,9.5,3.2,0.663,True,Active,,0.6631578947368421
+28,Single Origin Colombia 250g,Retail-Beans,9.0,3.0,0.667,True,Active,,0.6666666666666666
+29,Sunrise Blend 250g,Retail-Beans,8.0,2.5,0.688,True,Active,,0.6875
+30,Sunrise Blend 1kg,Retail-Beans,28.0,8.8,0.686,True,Active,,0.6857142857142857
+31,Single Origin Ethiopia 1kg,Retail-Beans,34.0,11.0,0.676,True,Active,,0.6764705882352942
+32,Ground Blend 250g,Retail-Beans,8.5,2.6,0.694,True,Active,,0.6941176470588236
+33,Decaf Blend 250g,Retail-Beans,8.8,2.8,0.682,True,Active,,0.6818181818181819
+34,Christmas Blend 250g,Retail-Beans,10.0,3.4,0.66,True,Seasonal,2023-09-01,0.6599999999999999
+35,Iced Tea,Cold-Drinks,3.2,0.6,0.812,False,Active,,0.8125
+36,Fresh Orange Juice,Cold-Drinks,3.5,0.8,0.771,False,Active,,0.7714285714285715
+37,Sparkling Water,Cold-Drinks,2.0,0.3,0.85,False,Active,,0.85
+38,Soft Drink,Cold-Drinks,2.5,0.45,0.82,False,Active,,0.82
+39,Sunrise Keep Cup,Merchandise,14.0,4.5,0.679,False,Active,,0.6785714285714286
+40,Branded Tote Bag,Merchandise,8.0,2.2,0.725,False,Active,,0.725
